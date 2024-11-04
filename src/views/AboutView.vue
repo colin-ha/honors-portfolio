@@ -36,7 +36,7 @@ import OneStopIcon from '@/icons/OneStopIcon.vue'
         <p class="description">
           <b>Wolverine Sports Analytics</b>
           <br />
-          <em>Project Team Member</em>
+          <em>Project Hermes - Team Member</em>
           <br />
           Working to develop a machine learning model to predict Wide Receiver performance.
         </p>
@@ -51,7 +51,7 @@ import OneStopIcon from '@/icons/OneStopIcon.vue'
           <YouTubeIcon class="icon" />
           <b>Keystep Tutorials YouTube Channel</b>
           &nbsp;
-          <a href="https://www.youtube.com/@keysteptutorials">
+          <a target="_blank" href="https://www.youtube.com/@keysteptutorials">
             <em><span class="see-more">(check it out!)</span></em>
           </a>
           <br />
@@ -65,7 +65,7 @@ import OneStopIcon from '@/icons/OneStopIcon.vue'
           <OneStopIcon class="icon" />
           <b>1StopConEd LLC Website</b>
           &nbsp;
-          <a href="https://www.1stopconed.com">
+          <a target="_blank" href="https://www.1stopconed.com">
             <em><span class="see-more">(check it out!)</span></em>
           </a>
           <br />
@@ -121,10 +121,9 @@ import OneStopIcon from '@/icons/OneStopIcon.vue'
   -webkit-text-fill-color: transparent;
   margin-left: 15px;
   transition:
-    background-position 3s ease,
+    background-position 1.5s ease,
     font-weight 0.5s ease;
   font-weight: 300;
-  text-align: center;
 }
 
 .hello:hover {

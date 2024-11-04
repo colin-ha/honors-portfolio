@@ -33,6 +33,16 @@ const router = createRouter({
       // which is lazy-loaded when the route is visited.
       component: () => import('../views/HonorsPlanDevelopmentView.vue'),
     },
+    {
+      path: '/experience/1stopconed',
+      name: 'experience-1stop',
+      component: () => import('../views/experience/OneStopConEdView.vue'),
+    },
+    {
+      path: '/experience/keysteptutorials',
+      name: 'experience-keysteptutorials',
+      component: () => import('../views/experience/KeystepTutorialsView.vue'),
+    },
   ],
 })
 

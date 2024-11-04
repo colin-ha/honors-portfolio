@@ -45,7 +45,7 @@
   -webkit-text-fill-color: transparent;
   margin-left: 15px;
   transition:
-    background-position 3s ease,
+    background-position 1.5s ease,
     font-weight 0.5s ease;
   font-weight: 300;
 }
