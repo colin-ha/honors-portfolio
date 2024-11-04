@@ -23,7 +23,7 @@ import OneStopIcon from '@/icons/OneStopIcon.vue'
       <div class="about-col quals">
         <h1>Qualifications</h1>
         <h2>Education</h2>
-        <p>
+        <p class="description">
           <b>The University of Michigan - Ann Arbor</b>
           &nbsp;3.94/4.0 GPA
           <br />
@@ -33,7 +33,7 @@ import OneStopIcon from '@/icons/OneStopIcon.vue'
         </p>
         <br />
         <h2>Activites</h2>
-        <p>
+        <p class="description">
           <b>Wolverine Sports Analytics</b>
           <br />
           <em>Project Team Member</em>
@@ -47,7 +47,7 @@ import OneStopIcon from '@/icons/OneStopIcon.vue'
             <em><span class="see-more">(see more!)</span></em>
           </RouterLink>
         </h2>
-        <p>
+        <p class="description">
           <YouTubeIcon class="icon" />
           <b>Keystep Tutorials YouTube Channel</b>
           &nbsp;
@@ -61,7 +61,7 @@ import OneStopIcon from '@/icons/OneStopIcon.vue'
           goal was to create tutorials for little-known songs, so that everyone can learn piano with the songs they
           love, regardless of popularity.
         </p>
-        <p>
+        <p class="description">
           <OneStopIcon class="icon" />
           <b>1StopConEd LLC Website</b>
           &nbsp;
@@ -152,13 +152,7 @@ p.about-me-text {
 
 .see-more:hover {
   font-weight: bolder;
-  background: linear-gradient(
-    45deg,
-    var(--color-gradient-start),
-    var(--color-gradient-end),
-    var(--color-gradient-hover-start),
-    var(--color-gradient-hover-end)
-  );
+  background: linear-gradient(45deg, var(--color-gradient-start), var(--color-gradient-end));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -182,5 +176,9 @@ a:visited {
 
 .quals {
   padding-left: 30px;
+}
+
+.description {
+  margin-bottom: 10px;
 }
 </style>
