@@ -8,7 +8,7 @@
   --vt-c-black-soft: #222222;
   --vt-c-black-mute: #282828;
 
-  --vt-c-indigo: #2c3e50;
+  --vt-c-indigo: #09151f;
 
   --vt-c-divider-light-1: rgba(60, 60, 60, 0.29);
   --vt-c-divider-light-2: rgba(60, 60, 60, 0.12);
@@ -82,4 +82,22 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* src/assets/base.css */
+
+:root {
+  --color-gradient-start: #0984e3;
+  --color-gradient-end: #00b894;
+  --color-gradient-hover-start: #ff9a8b;
+  --color-gradient-hover-end: #ff6ec4;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-gradient-start: #0984e3;
+    --color-gradient-end: #00b894;
+    --color-gradient-hover-start: #ff9a8b;
+    --color-gradient-hover-end: #ff6ec4;
+  }
 }
