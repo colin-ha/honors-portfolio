@@ -18,11 +18,12 @@
         <td>Communication</td>
         <td><span class="level-proficient">Proficient</span></td>
         <td>
-          I have had some good experience with working in teams where communication is required, but I feel that I
-          personally could still work on my understanding and non-verbal communication skills.
+          I will continue to improve in the more niche areas of communication. Although I have had some good experience
+          with working in teams where communication is required, I feel that I personally could still work on my
+          understanding and non-verbal communication skills.
         </td>
         <td>
-          As I continue to work on projects in teams, I will focus on emphasizing thorough and continuous communication.
+          I will focus on emphasizing thorough and continuous communication as I continue to work on projects in teams.
           In every situation, I will practice active listening and make sure to fully understand others.
         </td>
       </tr>
@@ -235,6 +236,7 @@
 .honorsplan-container {
   width: 90vw;
 }
+
 .hello {
   line-height: 1;
   font-size: 5.7rem;
@@ -290,11 +292,13 @@ table {
   font-weight: 600;
   font-size: large;
 }
+
 .level-proficient {
   color: #6c5ce7;
   font-weight: 600;
   font-size: large;
 }
+
 .level-exemplary {
   color: transparent;
   background: linear-gradient(45deg, #fdcb6e, #00b894, #0984e3);
@@ -313,6 +317,7 @@ table {
   border: 1px solid rgba(255, 255, 255, 0.3);
   margin-bottom: 20px;
 }
+
 .smart-goal h2 {
   font-size: x-large;
   color: transparent;
