@@ -132,6 +132,7 @@ import OneStopIcon from '@/icons/OneStopIcon.vue'
 }
 
 .hello {
+  line-height: 1;
   font-size: 6rem;
   background: linear-gradient(
     45deg,
@@ -152,8 +153,12 @@ import OneStopIcon from '@/icons/OneStopIcon.vue'
 }
 
 .hello:hover {
+  line-height: 1;
   background-position: right center;
   font-weight: 600;
+  will-change: background-position, font-weight;
+  backface-visibility: hidden;
+  transform: translateZ(0);
 }
 
 p.about-me-text {

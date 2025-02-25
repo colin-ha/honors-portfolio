@@ -261,6 +261,7 @@
 }
 
 .hello:hover {
+  line-height: 1;
   background-position: right center;
   font-weight: 600;
 }

@@ -31,6 +31,7 @@
 }
 
 .hello {
+  line-height: 1;
   font-size: 6rem;
   background: linear-gradient(
     45deg,
@@ -51,8 +52,11 @@
 }
 
 .hello:hover {
+  line-height: 1;
   background-position: right center;
   font-weight: 600;
+  backface-visibility: hidden;
+  transform: translateZ(0);
 }
 
 .below-hello {
@@ -133,6 +137,7 @@
   }
 
   .hello {
+    line-height: 1;
     font-size: 4rem;
   }
 
@@ -168,6 +173,7 @@
   }
 
   .hello {
+    line-height: 1;
     font-size: 4rem;
   }
 

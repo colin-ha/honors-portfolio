@@ -81,6 +81,7 @@ import ArrowRight from '@/icons/ArrowRight.vue'
 
 <style scoped>
 .hello {
+  line-height: 1;
   font-size: 6rem;
   background: linear-gradient(
     45deg,
@@ -101,8 +102,11 @@ import ArrowRight from '@/icons/ArrowRight.vue'
 }
 
 .hello:hover {
+  line-height: 1;
   background-position: right center;
   font-weight: 600;
+  backface-visibility: hidden;
+  transform: translateZ(0);
 }
 
 @media (max-width: 1040px) {
