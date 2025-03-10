@@ -223,6 +223,7 @@ a:visited {
   font-size: 24px;
   text-align: center;
   margin-top: 10px;
+  color: black;
 }
 
 .about-caption-box {

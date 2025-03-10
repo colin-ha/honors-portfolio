@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6e51eb8-c378-408f-aad4-aec7f5c28efa" name="Changes" comment="please fix everythign">
+    <list default="true" id="e6e51eb8-c378-408f-aad4-aec7f5c28efa" name="Changes" comment="fixed everything">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/esm.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/esm.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/lib/argument.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/lib/argument.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/lib/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/lib/command.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/lib/error.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/lib/error.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/lib/help.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/lib/help.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/lib/option.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/lib/option.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/lib/suggestSimilar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/lib/suggestSimilar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/typings/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/typings/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/bin/gh-pages.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/bin/gh-pages.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/lib/git.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/lib/git.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/lib/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/lib/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/lib/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/AboutView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/AboutView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/ExperiencesView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/ExperiencesView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomeView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/HonorsPlanDevelopmentView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HonorsPlanDevelopmentView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/PhilosophyView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/PhilosophyView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,12 +35,12 @@
     &quot;assignee&quot;: &quot;colin-ha&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/colin-ha/honors-portfolio.git&quot;,
-    &quot;accountId&quot;: &quot;37134b5f-c151-4c7f-885e-aa56400f119d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/colin-ha/honors-portfolio.git",
+    "accountId": "cb4d4d63-cb50-49fc-9fa0-30656c351990"
   }
-}</component>
+}]]></component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -82,30 +57,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/letsd/Documents/Coding/honors-portfolio/honors-portfolio",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.deploy.executor": "Run",
-    "npm.dev.executor": "Run",
-    "prettierjs.PrettierConfiguration.Package": "/Users/letsd/Documents/Coding/honors-portfolio/honors-portfolio/node_modules/prettier",
-    "settings.editor.selected.configurable": "editing.templates",
-    "ts.external.directory.path": "/Users/letsd/Documents/Coding/honors-portfolio/honors-portfolio/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/letsd/Documents/Coding/honors-portfolio/honors-portfolio&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.deploy.executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/letsd/Documents/Coding/honors-portfolio/honors-portfolio/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/letsd/Documents/Coding/honors-portfolio/honors-portfolio/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "vue.recent.templates": [
-      "Vue Composition API Component"
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -155,7 +130,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-WS-243.24978.60" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
       </set>
     </attachedChunks>
   </component>
@@ -182,7 +157,8 @@
       <workItem from="1740451182554" duration="8285000" />
       <workItem from="1740515573809" duration="2276000" />
       <workItem from="1740518439711" duration="30000" />
-      <workItem from="1740518479370" duration="1454000" />
+      <workItem from="1740518479370" duration="2884000" />
+      <workItem from="1741575645255" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="Routing completed for the main pages, and a cool navbar.">
       <option name="closed" value="true" />
@@ -272,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740516783106</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fixed everything">
+      <option name="closed" value="true" />
+      <created>1740520546688</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740520546688</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,6 +283,7 @@
     <MESSAGE value="put back all the bs?" />
     <MESSAGE value="I think I screwed it up without some extras" />
     <MESSAGE value="please fix everythign" />
-    <option name="LAST_COMMIT_MESSAGE" value="please fix everythign" />
+    <MESSAGE value="fixed everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed everything" />
   </component>
 </project>
